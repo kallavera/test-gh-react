@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kallavera/test-gh-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/kallavera/test-gh-react/static/js/main.e8e3ab9a.chunk.js",
+    "main.js.map": "/kallavera/test-gh-react/static/js/main.e8e3ab9a.chunk.js.map",
+    "runtime-main.js": "/kallavera/test-gh-react/static/js/runtime-main.1a038992.js",
+    "runtime-main.js.map": "/kallavera/test-gh-react/static/js/runtime-main.1a038992.js.map",
+    "static/js/2.a5066339.chunk.js": "/kallavera/test-gh-react/static/js/2.a5066339.chunk.js",
+    "static/js/2.a5066339.chunk.js.map": "/kallavera/test-gh-react/static/js/2.a5066339.chunk.js.map",
+    "index.html": "/kallavera/test-gh-react/index.html",
+    "precache-manifest.ea652470637391675668ae95d0280b1d.js": "/kallavera/test-gh-react/precache-manifest.ea652470637391675668ae95d0280b1d.js",
+    "service-worker.js": "/kallavera/test-gh-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/kallavera/test-gh-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a5066339.chunk.js.LICENSE.txt": "/kallavera/test-gh-react/static/js/2.a5066339.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kallavera/test-gh-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a038992.js",
+    "static/js/2.a5066339.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e8e3ab9a.chunk.js"
+  ]
+}
